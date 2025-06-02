@@ -1,4 +1,4 @@
-# Seja bem-vindo ao meu GitHub! 👋💻
+# Seja bem-vindo(a) ao meu GitHub! 👋💻
 
 Meu nome é **Ryan**, sou estudante de Engenharia da Computação na **UFAL** 🎓. Atualmente atuo com **linguagem C** 🖥️ e faço parte do **Grupo de Estudos de Frontend do ORION Lab** 🌌✨. Pretendo me tornar um **Desenvolvedor Full Stack** 👨‍💻.
 
