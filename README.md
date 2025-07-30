@@ -10,5 +10,5 @@ Meu nome é **Ryan**, sou estudante de Engenharia da Computação na **UFAL** �
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3"/></code>
 
 ## 📌 Atualmente Estudando:
-- 🌐🎨 JavaScript e React
+- 🌐🎨 JavaScript
 - 🚀 Estado da Arte do Frontend e Fundamentos WEB
