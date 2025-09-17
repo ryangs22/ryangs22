@@ -17,8 +17,7 @@ Meu nome é **Ryan**, sou estudante de Engenharia da Computação na **UFAL** �
 ## 📌 Atualmente Estudando
 
 - 🐍 **Python**: Fundamentos de programação e lógica computacional
-- 🗃️ **Estruturas de Dados**: Organização e manipulação eficiente de dados
-- 🗄️ **Banco de Dados**: Introdução a SQL e modelagem de dados
+- 🗃️ **Estruturas de Dados**: Organização e manipulação eficiente de dados em C
 
 ## 🚀 Próximos Passos
 
