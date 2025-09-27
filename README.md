@@ -6,13 +6,7 @@ Meu nome é **Ryan**, sou estudante de Engenharia da Computação na **UFAL** �
 
 **Linguagens & Ferramentas:**
 
-<code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" title="Linguagem C"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" title="JavaScript"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" title="Python"/></code>
-<code><img height="40" src="https://cdn.simpleicons.org/github/181717" alt="GitHub" title="GitHub"/></code>
-<code><img height="40" src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" title="Canva"/></code>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,github,vercel" />
 
 ## 📌 Atualmente Estudando
 
