@@ -38,8 +38,7 @@ Futuramente planejo me aprofundar nas seguintes tecnologias:
 
 <div align="center">
   
-[![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ryangs22&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=algolia)](https://github.com/ryangs22)
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ryangs22&layout=compact&theme=algolia&hide_border=true)](https://github.com/ryangs22)
+[![Estatísticas do GitHub](https://github-readme-stats-livid-one-12.vercel.app/api?username=ryangs22&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=midnight-purple)](https://github.com/ryangs22)
+[![Top Languages](https://github-readme-stats-livid-one-12.vercel.app/api/top-langs/?username=ryangs22&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/ryangs22)
 
 </div>
