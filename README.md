@@ -6,7 +6,7 @@ Meu nome é **Ryan Gabriel**, sou estudante de Engenharia da Computação na **U
 
 **Linguagens & Ferramentas:**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,nodejs,github,vercel," />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,nodejs,,git,github,vercel," />
 
 ## 🚀 Próximos Passos
 
