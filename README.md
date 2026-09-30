@@ -9,7 +9,7 @@ Atualmente focado em desenvolvimento Back-end com ***C***, ***Python*** e ***Nod
 ## 🛠️ Tech Stack
 
 <div align="center"> 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,nodejs,git,github,vercel," />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,react,nodejs,postgresql,git,github,vercel," />
 </div>
 
 ## 📊 Estatísticas do GitHub
