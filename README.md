@@ -3,14 +3,30 @@
   </a>
 </div>
 
-Graduando em ***Engenharia da Computação*** na UFAL e ***Sistemas de Informação*** 🎓.
-Atualmente focado em desenvolvimento Back-end com ***C***, ***Python*** e ***Node.js***, e Front-end com ***HTML***, ***CSS***, ***JavaScript*** e ***React*** 💻. Estou em constante evolução através de projetos práticos para me tornar um ***Desenvolvedor Full Stack***🚀.
+<div align="center">
+
+Graduando em **Engenharia da Computação** (UFAL) & **Sistemas de Informação** 🎓  
+Desenvolvedor Full-Stack Júnior em constante evolução 🚀
+
+</div>
+
+---
+
+### 💻 Sobre Mim
+
+* 🔭 Atualmente focado no desenvolvimento de aplicações web modernas e escaláveis com stack front-end robusta, criação de SaaS e MVPs com integração de IA, desenvolvimento back-end, criação de servidores e APIs, modelagem de banco de dados e soluções automatizadas com Python.
+* ⚡ Apaixonado por algoritmos, otimização de processos operacionais e arquitetura de software limpa.
+* 📱 Com ambição futura de expandir minhas soluções para o ecossistema **Mobile** com **Dart (Flutter)** ou **React Native**, integrando todas as camadas tecnológicas.
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center"> 
+<div align="center">  
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,typescript,next,react,nodejs,express,postgresql,git,github,vercel," />
 </div>
+
+---
 
 ## 📊 Estatísticas do GitHub
 
