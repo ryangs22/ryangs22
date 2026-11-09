@@ -23,7 +23,7 @@ Desenvolvedor Full-Stack Júnior em constante evolução 🚀
 ## 🛠️ Tech Stack
 
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,typescript,next,react,nodejs,express,postgresql,git,github,vercel," />
+<img src="https://skillicons.dev/icons?i=c,python,html,css,js,typescript,next,react,nodejs,express,supabase,postgresql,git,github,vercel," />
 </div>
 
 ---
